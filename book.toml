@@ -1,9 +1,0 @@
-[book]
-authors = ["baka4n"]
-language = "en"
-multilingual = true
-src = "src"
-title = "Fabric-Mod-Tutorials"
-
-[language.en]
-name = "English"
