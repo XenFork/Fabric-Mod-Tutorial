@@ -3,7 +3,7 @@
 ## 第一步
 
 使用idea构建一个gradle项目
-![创建项目](../../icon/create_program.png)
+![创建项目](../icon/create_program.png)
 
 然后我们稍微修改一下gradle
 
@@ -147,6 +147,6 @@ tasks.withType(JavaCompile).configureEach {
     }
 
 ## such as
-- [build.gradle](../../tutorials/build.gradle)
-- [settings.gradle](../../tutorials/settings.gradle)
-- [gradle.properties](../../tutorials/gradle.properties)
+- [build.gradle](../tutorials/build.gradle)
+- [settings.gradle](../tutorials/settings.gradle)
+- [gradle.properties](../tutorials/gradle.properties)
