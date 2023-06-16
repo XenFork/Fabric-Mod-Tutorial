@@ -1,6 +1,6 @@
 [book]
 authors = ["baka4n"]
-language = "en"
-multilingual = false
+language = "en_us, zh-cn, zh-tw"
+multilingual = true
 src = "src"
 title = "Fabric-Mod-Tutorials"
