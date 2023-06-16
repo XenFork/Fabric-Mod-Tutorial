@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "tutorials",
+  "version": "${version}",
+  "name": "tutorials",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/xenfork/tutorials"
+  },
+  "license": "MIT",
+  "icon": "assets/tutorials/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+    ],
+    "client": [
+    ]
+  },
+  "mixins": [
+    "tutorials.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "custom": {
+    "loom:injected_interfaces": {
+    }
+  }
+}
