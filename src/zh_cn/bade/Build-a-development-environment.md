@@ -73,7 +73,9 @@ def targetJavaVersion =
 ```
 
 processResources为编译时注入到指定文件内的版本参数 ${example}
+
 其中charset为文件编码格式 
+
 alpha_version为启动是fabric识别版本如果不是这个版本则无法启动游戏
 ```groovy
 processResources {
