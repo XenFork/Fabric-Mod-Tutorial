@@ -81,3 +81,8 @@
   ]
 }
 ```
+
+## such as
+- [fabric.mod.json](../tutorials/src/main/resources/fabric.mod.json)
+- [tutorials.mixins.json](../tutorials/src/main/resources/tutorials.mixins.json)
+![icon](../tutorials/src/main/resources/assets/tutorials/icon.png)
