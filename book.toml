@@ -1,6 +1,7 @@
 [book]
 authors = ["baka4n"]
-language = "en_us, zh-cn, zh-tw"
+language = "en"
 multilingual = true
+shared-locale-resources = ["locales/core.flt"]
 src = "src"
-title = "Fabric-Mod-Tutorials"
+title = "{{fluent \"book-title\"}}"
