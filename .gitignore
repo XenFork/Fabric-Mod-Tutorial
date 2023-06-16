@@ -1,3 +1,10 @@
 book
 
 *.exe
+*.log
+*.hprof
+
+**/.gradle
+**/build/
+**/.idea/
+**/run/
