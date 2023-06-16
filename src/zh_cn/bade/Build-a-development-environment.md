@@ -145,6 +145,6 @@ tasks.withType(JavaCompile).configureEach {
     }
 
 ## such as
-- [build.gradle](../../../tutorials/build.gradle)
-- [settings.gradle](../../../tutorials/settings.gradle)
-- [gradle.properties](../../../tutorials/gradle.properties)
+- [build.gradle](../../tutorials/build.gradle)
+- [settings.gradle](../../tutorials/settings.gradle)
+- [gradle.properties](../../tutorials/gradle.properties)
