@@ -61,9 +61,9 @@
 - compatibilityLevel java编译版本 这里用的是java17
 - injectors 注入模式
   - defaultRequire 默认需要的混合集
-- mixins 允许同时支持运行在客户端和服务端 mixins
-- client 只能在客户端mixins
-- server 只能在服务端mixins
+- mixins 允许同时支持在客户端和服务端运行mixins
+- client 只能在客户端运行mixins
+- server 只能在服务端运行mixins
 ```json
 {
   "required": true,
